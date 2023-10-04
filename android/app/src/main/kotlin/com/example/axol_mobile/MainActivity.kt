@@ -1,4 +1,4 @@
-package com.example.axol_mobile
+package com.example.axol_music
 
 import io.flutter.embedding.android.FlutterActivity
 

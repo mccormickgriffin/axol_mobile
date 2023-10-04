@@ -1,4 +1,4 @@
-# axol_mobile
+# axol_music
 
 A new Flutter project.
 

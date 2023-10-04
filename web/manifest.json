@@ -1,6 +1,6 @@
 {
-    "name": "axol_mobile",
-    "short_name": "axol_mobile",
+    "name": "axol_music",
+    "short_name": "axol_music",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

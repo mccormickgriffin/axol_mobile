@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.axol_mobile">
+    package="com.example.axol_music">
    <application
-        android:label="axol_mobile"
+        android:label="axol_music"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
